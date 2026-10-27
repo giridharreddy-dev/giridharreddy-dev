@@ -1,6 +1,6 @@
 # Giridhar Reddy Challa
 
-B.Tech student in Computer Science and Engineering (Artificial Intelligence) at JNTU Anantapur. Currently preparing for GATE CSE and strengthening my programming and problem-solving foundations.
+B.Tech student in Computer Science and Engineering at JNTU Anantapur. Currently preparing for GATE CSE and strengthening my programming and problem-solving foundations.
 
 ## Current focus
 
